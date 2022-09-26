@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card-design{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(226,231,173,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+body{
+  background-color: rgb(47 41 41) !important;
+}
